@@ -30,6 +30,12 @@ npm install
 npm run develop
 
 ```
+## Account for Strapi 
+```
+Email : lucas.softimad@gmail.com
+Password : Natana123456
+
+```
 
 ## Run the client project 
 ```
